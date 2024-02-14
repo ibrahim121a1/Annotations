@@ -15,658 +15,555 @@
             },
             "image": {
                 "region_label": "Radio",
-                "region_color": "Radio",
+                "region_color": "__via_default_region_color__",
                 "region_label_font": "10px Sans",
                 "on_image_annotation_editor_placement": "NEAR_REGION"
             }
         },
         "core": {
-            "buffer_size": 18,
+            "buffer_size": "18",
             "filepath": {},
             "default_filepath": ""
         },
         "project": {
-            "name": "ABCD_0"
+            "name": "SPQ_2"
         }
     },
     "_via_img_metadata": {
-        "page_1_1_AD.png925208": {
-            "filename": "page_1_1_AD.png",
-            "size": 925208,
+        "SPQ_2.png": {
+            "filename": "SPQ_2.png",
+            "size": 1027304,
             "regions": [
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 196,
-                        "y": 491,
-                        "width": 2597,
-                        "height": 93
+                        "x": 603,
+                        "y": 110,
+                        "width": 2587,
+                        "height": 67
                     },
                     "region_attributes": {
-                        "Radio": "buyer_broker_name1",
+                        "Radio": "p3_property_address",
                         "tag": "blankspace"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 1196,
-                        "y": 599,
-                        "width": 1791,
-                        "height": 45
+                        "x": 2879,
+                        "y": 319,
+                        "width": 35,
+                        "height": 26
                     },
                     "region_attributes": {
-                        "Radio": "buyer_name1",
-                        "tag": "blanksppace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1850,
-                        "y": 680,
-                        "width": 25,
-                        "height": 24
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_other_check",
+                        "Radio": "property_address_dranage_yes",
                         "tag": "checkbox"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 2030,
-                        "y": 655,
-                        "width": 1159,
-                        "height": 57
+                        "x": 3062,
+                        "y": 316,
+                        "width": 39,
+                        "height": 35
                     },
                     "region_attributes": {
-                        "Radio": "compensation_other_blank",
+                        "Radio": "property_address_dranage_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2875,
+                        "y": 370,
+                        "width": 35,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "use_of_any_neighbouring_property_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 369,
+                        "width": 39,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "use_of_any_neighbouring_property_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2879,
+                        "y": 615,
+                        "width": 33,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Radio": "diseases_effecting_tress_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3063,
+                        "y": 615,
+                        "width": 37,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "diseases_effecting_tress_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2872,
+                        "y": 671,
+                        "width": 38,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "operation_sprinkles_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 672,
+                        "width": 36,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "operation_sprinkles_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2882,
+                        "y": 782,
+                        "width": 31,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "area_with_trees_area_with_trees_not_covered_by_sprinkler_system_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3065,
+                        "y": 782,
+                        "width": 34,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "area_with_trees_not_covered_by_sprinkler_system_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2882,
+                        "y": 840,
+                        "width": 28,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "pool_heater_property_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 839,
+                        "width": 33,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "pool_heater_property_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 610,
+                        "y": 431,
+                        "width": 2582,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "12_explanation_1",
                         "tag": "blankspace"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 742,
-                        "y": 1135,
-                        "width": 1766,
-                        "height": 74
+                        "x": 846,
+                        "y": 735,
+                        "width": 35,
+                        "height": 27
                     },
                     "region_attributes": {
-                        "Radio": "buyer_brokerage_firm_name1",
+                        "Radio": "automatic",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1183,
+                        "y": 724,
+                        "width": 36,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "manual",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2883,
+                        "y": 895,
+                        "width": 32,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "pool_heater_operational_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3064,
+                        "y": 892,
+                        "width": 33,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "pool_heater_operational_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2877,
+                        "y": 951,
+                        "width": 35,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "spa_heater_1",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3065,
+                        "y": 949,
+                        "width": 33,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Radio": "spa_heater_2",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2879,
+                        "y": 1007,
+                        "width": 33,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "spa_heater_operational_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 1007,
+                        "width": 35,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "spa_heater_operational_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2877,
+                        "y": 1171,
+                        "width": 33,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "leak_detect_pool_spa_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 1170,
+                        "width": 37,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Radio": "leak_detect_pool_spa_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 605,
+                        "y": 1224,
+                        "width": 2580,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "13_explanation_1",
                         "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2877,
+                        "y": 1534,
+                        "width": 38,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_prop_condium_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3063,
+                        "y": 1538,
+                        "width": 41,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_prop_condium_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2882,
+                        "y": 1589,
+                        "width": 35,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_HOA_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3059,
+                        "y": 1592,
+                        "width": 39,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_HOA_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2880,
+                        "y": 1704,
+                        "width": 36,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_common_area_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 1704,
+                        "width": 39,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_common_area_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2879,
+                        "y": 1758,
+                        "width": 38,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_CCR_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3067,
+                        "y": 1757,
+                        "width": 36,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_CCR_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2884,
+                        "y": 1924,
+                        "width": 33,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_Pending_HOA_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 1927,
+                        "width": 39,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_Pending_HOA_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2885,
+                        "y": 2038,
+                        "width": 30,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_CCR_HOA_Committee_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 2035,
+                        "width": 39,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_CCR_HOA_Committee_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2608,
+                        "y": 2152,
+                        "width": 36,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "condominiums_property_inconsistent_yes",
+                        "tag": "checkbox"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
                         "x": 2762,
-                        "y": 1145,
-                        "width": 435,
-                        "height": 64
+                        "y": 2150,
+                        "width": 35,
+                        "height": 33
                     },
                     "region_attributes": {
-                        "Radio": "buyer_brokerage_firm1_lic_no",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 272,
-                        "y": 1219,
-                        "width": 907,
-                        "height": 49
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_brokerage_signature",
-                        "tag": "signature"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1187,
-                        "y": 1221,
-                        "width": 843,
-                        "height": 57
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_brokerage_name2",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2260,
-                        "y": 1219,
-                        "width": 450,
-                        "height": 54
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_brokerage_lic_no",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2832,
-                        "y": 1217,
-                        "width": 373,
-                        "height": 52
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_brokerage_date1",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 373,
-                        "y": 1511,
-                        "width": 2330,
-                        "height": 76
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_name2",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2814,
-                        "y": 1511,
-                        "width": 363,
-                        "height": 72
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer2_date"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 364,
-                        "y": 1592,
-                        "width": 2344,
-                        "height": 62
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_name3",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2819,
-                        "y": 1587,
-                        "width": 354,
-                        "height": 67
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer3_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 232,
-                        "y": 2022,
-                        "width": 181,
-                        "height": 64
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_1_row_1",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 442,
-                        "y": 2025,
-                        "width": 186,
-                        "height": 67
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_2_row_1",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 656,
-                        "y": 1983,
-                        "width": 1122,
-                        "height": 124
-                    },
-                    "region_attributes": {
-                        "Radio": "property_address_row_1",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1803,
-                        "y": 1990,
-                        "width": 106,
-                        "height": 47
-                    },
-                    "region_attributes": {
-                        "Radio": "month_row_1_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1941,
-                        "y": 1993,
-                        "width": 101,
-                        "height": 49
-                    },
-                    "region_attributes": {
-                        "Radio": "day_row_1_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2069,
-                        "y": 1995,
-                        "width": 149,
-                        "height": 44
-                    },
-                    "region_attributes": {
-                        "Radio": "year_row_1_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2262,
-                        "y": 1993,
-                        "width": 148,
-                        "height": 39
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_percentage_row1",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2389,
-                        "y": 2042,
-                        "width": 366,
-                        "height": 44
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_price_row1",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2832,
-                        "y": 2010,
-                        "width": 24,
-                        "height": 22
-                    },
-                    "region_attributes": {
-                        "Radio": "source_MLS_row_1_check",
+                        "Radio": "condominiums_property_inconsistent_no",
                         "tag": "checkbox"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 3000,
-                        "y": 2011,
-                        "width": 20,
-                        "height": 20
+                        "x": 2611,
+                        "y": 2262,
+                        "width": 30,
+                        "height": 34
                     },
                     "region_attributes": {
-                        "Radio": "source_cbc_row_1_check",
+                        "Radio": "condominiums_HOA_Commite_yes",
                         "tag": "checkbox"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 2831,
-                        "y": 2060,
-                        "width": 27,
-                        "height": 24
+                        "x": 2762,
+                        "y": 2261,
+                        "width": 38,
+                        "height": 31
                     },
                     "region_attributes": {
-                        "Radio": "source_other_row_1_check",
-                        "tag": "checkbox"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2873,
-                        "y": 2043,
-                        "width": 285,
-                        "height": 44
-                    },
-                    "region_attributes": {
-                        "Radio": "source_other_row_1_blankspace",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 235,
-                        "y": 2144,
-                        "width": 180,
-                        "height": 71
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_1_row_2",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 442,
-                        "y": 2151,
-                        "width": 180,
-                        "height": 69
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_2_row_2",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 656,
-                        "y": 2114,
-                        "width": 1120,
-                        "height": 121
-                    },
-                    "region_attributes": {
-                        "Radio": "property_address_row2",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1807,
-                        "y": 2124,
-                        "width": 109,
-                        "height": 42
-                    },
-                    "region_attributes": {
-                        "Radio": "month_row_2_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1934,
-                        "y": 2129,
-                        "width": 107,
-                        "height": 39
-                    },
-                    "region_attributes": {
-                        "Radio": "day_row_2_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2060,
-                        "y": 2124,
-                        "width": 166,
-                        "height": 42
-                    },
-                    "region_attributes": {
-                        "Radio": "year_row_2_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2267,
-                        "y": 2126,
-                        "width": 139,
-                        "height": 37
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_percentage_row2",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2381,
-                        "y": 2176,
-                        "width": 366,
-                        "height": 35
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_price_row2",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2827,
-                        "y": 2139,
-                        "width": 25,
-                        "height": 25
-                    },
-                    "region_attributes": {
-                        "Radio": "source_MLS_row_2_check",
-                        "tag": "checkbox"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 3000,
-                        "y": 2139,
-                        "width": 24,
-                        "height": 20
-                    },
-                    "region_attributes": {
-                        "Radio": "source_cbc_row_2_check",
-                        "tag": "checkbox"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2832,
-                        "y": 2191,
-                        "width": 25,
-                        "height": 22
-                    },
-                    "region_attributes": {
-                        "Radio": "source_other_row_2_check",
-                        "tag": "checkbox"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2874,
-                        "y": 2178,
-                        "width": 277,
-                        "height": 42
-                    },
-                    "region_attributes": {
-                        "Radio": "source_other_row_2_blankspace",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 230,
-                        "y": 2260,
-                        "width": 185,
-                        "height": 86
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_1_row_3",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 445,
-                        "y": 2267,
-                        "width": 178,
-                        "height": 82
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_2_row_3",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 660,
-                        "y": 2245,
-                        "width": 1115,
-                        "height": 123
-                    },
-                    "region_attributes": {
-                        "Radio": "property_address_row3",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1807,
-                        "y": 2255,
-                        "width": 107,
-                        "height": 44
-                    },
-                    "region_attributes": {
-                        "Radio": "month_row_3_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1938,
-                        "y": 2260,
-                        "width": 102,
-                        "height": 37
-                    },
-                    "region_attributes": {
-                        "Radio": "day_row_3_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2064,
-                        "y": 2252,
-                        "width": 148,
-                        "height": 45
-                    },
-                    "region_attributes": {
-                        "Radio": "year_row_3_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2265,
-                        "y": 2248,
-                        "width": 149,
-                        "height": 45
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_percentage_row3",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2381,
-                        "y": 2307,
-                        "width": 371,
-                        "height": 37
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_price_row3",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2827,
-                        "y": 2270,
-                        "width": 29,
-                        "height": 25
-                    },
-                    "region_attributes": {
-                        "Radio": "source_MLS_row_3_check",
-                        "tag": "checkbox"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2999,
-                        "y": 2267,
-                        "width": 29,
-                        "height": 27
-                    },
-                    "region_attributes": {
-                        "Radio": "source_cbc_row_3_check",
-                        "tag": "checkbox"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2831,
-                        "y": 2322,
-                        "width": 24,
-                        "height": 20
-                    },
-                    "region_attributes": {
-                        "Radio": "source_other_row_3_check",
+                        "Radio": "condominiums_HOA_Commite_no",
                         "tag": "checkbox"
                     }
                 },
@@ -674,311 +571,25 @@
                     "shape_attributes": {
                         "name": "rect",
                         "x": 2876,
-                        "y": 2309,
-                        "width": 270,
-                        "height": 40
-                    },
-                    "region_attributes": {
-                        "Radio": "source_other_row_3_blankspace",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 233,
-                        "y": 2393,
-                        "width": 181,
-                        "height": 82
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_1_row_4",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 447,
-                        "y": 2401,
-                        "width": 176,
-                        "height": 81
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_2_row_4",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 655,
-                        "y": 2383,
-                        "width": 1125,
-                        "height": 111
-                    },
-                    "region_attributes": {
-                        "Radio": "property_address_row4",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1805,
-                        "y": 2381,
-                        "width": 109,
-                        "height": 45
-                    },
-                    "region_attributes": {
-                        "Radio": "month_row_4_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1934,
-                        "y": 2389,
-                        "width": 104,
-                        "height": 37
-                    },
-                    "region_attributes": {
-                        "Radio": "day_row_4_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2060,
-                        "y": 2386,
-                        "width": 163,
-                        "height": 42
-                    },
-                    "region_attributes": {
-                        "Radio": "year_row_4_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2263,
-                        "y": 2383,
-                        "width": 153,
-                        "height": 40
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_percentage_row4",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2374,
-                        "y": 2440,
-                        "width": 371,
-                        "height": 35
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_price_row4",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2827,
-                        "y": 2401,
-                        "width": 29,
+                        "y": 2578,
+                        "width": 35,
                         "height": 30
                     },
                     "region_attributes": {
-                        "Radio": "source_MLS_row_4_check",
+                        "Radio": "other_than_seller_sign_yes",
                         "tag": "checkbox"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 3002,
-                        "y": 2401,
-                        "width": 22,
-                        "height": 24
+                        "x": 3059,
+                        "y": 2572,
+                        "width": 43,
+                        "height": 37
                     },
                     "region_attributes": {
-                        "Radio": "source_cbc_row_4_check",
-                        "tag": "checkbox"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2829,
-                        "y": 2453,
-                        "width": 22,
-                        "height": 22
-                    },
-                    "region_attributes": {
-                        "Radio": "source_other_row_4_check",
-                        "tag": "checkbox"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2873,
-                        "y": 2441,
-                        "width": 277,
-                        "height": 39
-                    },
-                    "region_attributes": {
-                        "Radio": "source_other_row_4_blankspace",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 235,
-                        "y": 2515,
-                        "width": 178,
-                        "height": 92
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_1_row_5",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 438,
-                        "y": 2530,
-                        "width": 186,
-                        "height": 76
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_2_row_5",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 655,
-                        "y": 2505,
-                        "width": 1125,
-                        "height": 128
-                    },
-                    "region_attributes": {
-                        "Radio": "property_address_row5",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1807,
-                        "y": 2508,
-                        "width": 109,
-                        "height": 49
-                    },
-                    "region_attributes": {
-                        "Radio": "month_row_5_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1939,
-                        "y": 2505,
-                        "width": 101,
-                        "height": 54
-                    },
-                    "region_attributes": {
-                        "Radio": "day_row_5_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2069,
-                        "y": 2510,
-                        "width": 149,
-                        "height": 49
-                    },
-                    "region_attributes": {
-                        "Radio": "year_row_5_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2273,
-                        "y": 2512,
-                        "width": 146,
-                        "height": 40
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_percentage_row5",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2381,
-                        "y": 2566,
-                        "width": 371,
-                        "height": 39
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_price_row5",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2831,
-                        "y": 2534,
-                        "width": 24,
-                        "height": 20
-                    },
-                    "region_attributes": {
-                        "Radio": "source_MLS_row_5_check",
-                        "tag": "checkbox"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 3002,
-                        "y": 2530,
-                        "width": 22,
-                        "height": 22
-                    },
-                    "region_attributes": {
-                        "Radio": "source_cbc_row_5_check",
-                        "tag": "checkbox"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2829,
-                        "y": 2581,
-                        "width": 27,
-                        "height": 25
-                    },
-                    "region_attributes": {
-                        "Radio": "source_other_row_5_check",
+                        "Radio": "other_than_seller_sign_no",
                         "tag": "checkbox"
                     }
                 },
@@ -986,272 +597,428 @@
                     "shape_attributes": {
                         "name": "rect",
                         "x": 2878,
-                        "y": 2574,
-                        "width": 272,
-                        "height": 34
+                        "y": 2633,
+                        "width": 38,
+                        "height": 32
                     },
                     "region_attributes": {
-                        "Radio": "source_other_row_5_blankspace",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 238,
-                        "y": 2648,
-                        "width": 180,
-                        "height": 89
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_1_row_6",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 445,
-                        "y": 2646,
-                        "width": 176,
-                        "height": 94
-                    },
-                    "region_attributes": {
-                        "Radio": "buyer_initial_2_row_6",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 656,
-                        "y": 2638,
-                        "width": 1123,
-                        "height": 119
-                    },
-                    "region_attributes": {
-                        "Radio": "property_address_row6",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1810,
-                        "y": 2641,
-                        "width": 104,
-                        "height": 50
-                    },
-                    "region_attributes": {
-                        "Radio": "month_row_6_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1939,
-                        "y": 2639,
-                        "width": 101,
-                        "height": 49
-                    },
-                    "region_attributes": {
-                        "Radio": "day_row_6_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2062,
-                        "y": 2643,
-                        "width": 165,
-                        "height": 47
-                    },
-                    "region_attributes": {
-                        "Radio": "year_row_6_date",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2268,
-                        "y": 2639,
-                        "width": 153,
-                        "height": 45
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_percentage_row6",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2384,
-                        "y": 2698,
-                        "width": 374,
-                        "height": 40
-                    },
-                    "region_attributes": {
-                        "Radio": "compensation_price_row6",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 2829,
-                        "y": 2663,
-                        "width": 29,
-                        "height": 22
-                    },
-                    "region_attributes": {
-                        "Radio": "source_MLS_row_6_check",
+                        "Radio": "lease_property_yes",
                         "tag": "checkbox"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 3002,
-                        "y": 2661,
-                        "width": 24,
-                        "height": 24
+                        "x": 3065,
+                        "y": 2627,
+                        "width": 37,
+                        "height": 41
                     },
                     "region_attributes": {
-                        "Radio": "source_cbc_row_6_check",
+                        "Radio": "lease_property_no",
                         "tag": "checkbox"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 2832,
-                        "y": 2715,
-                        "width": 24,
-                        "height": 20
+                        "x": 2875,
+                        "y": 2798,
+                        "width": 43,
+                        "height": 35
                     },
                     "region_attributes": {
-                        "Radio": "source_other_row_6_check",
+                        "Radio": "lawsuit_yes",
                         "tag": "checkbox"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 2874,
-                        "y": 2698,
-                        "width": 280,
+                        "x": 3063,
+                        "y": 2798,
+                        "width": 35,
                         "height": 37
                     },
                     "region_attributes": {
-                        "Radio": "source_other_row_6_blankspace",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 615,
-                        "y": 2979,
-                        "width": 2566,
-                        "height": 60
-                    },
-                    "region_attributes": {
-                        "Radio": "property_address",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1162,
-                        "y": 3096,
-                        "width": 520,
-                        "height": 57
-                    },
-                    "region_attributes": {
-                        "Radio": "seller_broker_amount",
-                        "tag": "blankspace"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 306,
-                        "y": 3185,
-                        "width": 34,
-                        "height": 27
-                    },
-                    "region_attributes": {
-                        "Radio": "from_check",
+                        "Radio": "lawsuit_no",
                         "tag": "checkbox"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 460,
-                        "y": 3165,
-                        "width": 865,
-                        "height": 54
+                        "x": 2873,
+                        "y": 2903,
+                        "width": 42,
+                        "height": 42
                     },
                     "region_attributes": {
-                        "Radio": "from_blankspace",
+                        "Radio": "features_of_property_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3059,
+                        "y": 2908,
+                        "width": 44,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "features_of_property_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2879,
+                        "y": 3017,
+                        "width": 36,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "enchrocement_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3059,
+                        "y": 3015,
+                        "width": 45,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "enchrocement_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2879,
+                        "y": 3130,
+                        "width": 38,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "any_transfer_fees_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3058,
+                        "y": 3127,
+                        "width": 41,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "any_transfer_fees_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2877,
+                        "y": 3240,
+                        "width": 39,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "any_pace_lien_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3058,
+                        "y": 3241,
+                        "width": 46,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "any_pace_lien_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2881,
+                        "y": 3351,
+                        "width": 32,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Radio": "cost_of_any_alteration_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 3354,
+                        "width": 42,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "cost_of_any_alteration_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2875,
+                        "y": 3915,
+                        "width": 41,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "neighbour_hood_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 3910,
+                        "width": 41,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "neighbour_hood_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 609,
+                        "y": 3411,
+                        "width": 2602,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "Radio": "15_explanation_1",
                         "tag": "blankspace"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 1741,
-                        "y": 3172,
-                        "width": 524,
-                        "height": 49
+                        "x": 305,
+                        "y": 1293,
+                        "width": 2884,
+                        "height": 51
                     },
                     "region_attributes": {
-                        "Radio": "amount",
+                        "Radio": "13_explanation_2",
                         "tag": "blankspace"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 285,
-                        "y": 3392,
-                        "width": 1012,
-                        "height": 64
+                        "x": 292,
+                        "y": 1365,
+                        "width": 2899,
+                        "height": 47
                     },
                     "region_attributes": {
-                        "Radio": "by_signature",
-                        "tag": "signature"
-                    }
-                },
-                {
-                    "shape_attributes": {
-                        "name": "rect",
-                        "x": 1306,
-                        "y": 3397,
-                        "width": 875,
-                        "height": 60
-                    },
-                    "region_attributes": {
-                        "Radio": "by_name",
+                        "Radio": "13_explanation_3",
                         "tag": "blankspace"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 2396,
-                        "y": 3402,
-                        "width": 312,
-                        "height": 59
+                        "x": 304,
+                        "y": 2381,
+                        "width": 2891,
+                        "height": 51
                     },
                     "region_attributes": {
-                        "Radio": "by_lic_no",
+                        "Radio": "14_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 305,
+                        "y": 2450,
+                        "width": 2894,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "14_explanation_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 292,
+                        "y": 3478,
+                        "width": 2907,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "Radio": "15_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 280,
+                        "y": 3550,
+                        "width": 2923,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "15_explanation_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 305,
+                        "y": 500,
+                        "width": 2899,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "12_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 595,
+                        "y": 2311,
+                        "width": 2610,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "Radio": "14_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2993,
+                        "y": 254,
+                        "width": 201,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "12_B_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1285,
+                        "y": 364,
+                        "width": 1581,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Radio": "12_C_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2250,
+                        "y": 609,
+                        "width": 617,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "13_A_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1264,
+                        "y": 658,
+                        "width": 1597,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "13_B_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2577,
+                        "y": 775,
+                        "width": 287,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "13_B_2_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1069,
+                        "y": 828,
+                        "width": 1786,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "13_C_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 920,
+                        "y": 991,
+                        "width": 1941,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "13_D_operational_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 597,
+                        "y": 1159,
+                        "width": 2251,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "13_E_explanation",
                         "tag": "blankspace"
                     }
                 },
@@ -1259,38 +1026,298 @@
                     "shape_attributes": {
                         "name": "rect",
                         "x": 2836,
-                        "y": 3402,
-                        "width": 371,
-                        "height": 50
+                        "y": 1541,
+                        "width": 30,
+                        "height": 28
                     },
                     "region_attributes": {
-                        "Radio": "by_date",
+                        "Radio": "14_A_explanation",
                         "tag": "blankspace"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 2671,
-                        "y": 3558,
-                        "width": 185,
-                        "height": 72
+                        "x": 2348,
+                        "y": 1583,
+                        "width": 508,
+                        "height": 43
                     },
                     "region_attributes": {
-                        "Radio": "buyer_initial_1",
+                        "Radio": "14_B_explanation",
                         "tag": "blankspace"
                     }
                 },
                 {
                     "shape_attributes": {
                         "name": "rect",
-                        "x": 2883,
-                        "y": 3558,
-                        "width": 185,
-                        "height": 72
+                        "x": 856,
+                        "y": 1695,
+                        "width": 1998,
+                        "height": 41
                     },
                     "region_attributes": {
-                        "Radio": "buyer_initial_2",
+                        "Radio": "14_C_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1475,
+                        "y": 1748,
+                        "width": 1380,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "14_D_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2950,
+                        "y": 1868,
+                        "width": 241,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "14_E_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 608,
+                        "y": 2027,
+                        "width": 2265,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "14_F_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1045,
+                        "y": 2146,
+                        "width": 1546,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "14_F_1_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 508,
+                        "y": 2257,
+                        "width": 2079,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "14_F_2_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2437,
+                        "y": 2568,
+                        "width": 427,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "15_A_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2056,
+                        "y": 2628,
+                        "width": 809,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "15_B_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 788,
+                        "y": 2792,
+                        "width": 2073,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "15_C_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2027,
+                        "y": 2902,
+                        "width": 837,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "15_D_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 949,
+                        "y": 3014,
+                        "width": 1907,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "15_E_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1201,
+                        "y": 3124,
+                        "width": 1663,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "15_F_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1939,
+                        "y": 3237,
+                        "width": 919,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "15_G_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1194,
+                        "y": 3349,
+                        "width": 1670,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "15_H_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 638,
+                        "y": 3911,
+                        "width": 2218,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "16_A_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 917,
+                        "y": 887,
+                        "width": 1934,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "13_C_operational_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1056,
+                        "y": 939,
+                        "width": 1799,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "13_D_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 414,
+                        "y": 310,
+                        "width": 2450,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "12_B_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 407,
+                        "y": 1921,
+                        "width": 2462,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "14_E_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3153,
+                        "y": 1475,
+                        "width": 36,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "14_Are_you_seller_aware_of?",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3157,
+                        "y": 2514,
+                        "width": 35,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "15_Are_you_seller_aware_of?",
                         "tag": "blankspace"
                     }
                 }
@@ -1301,20 +1328,16 @@
     "_via_attributes": {
         "region": {
             "Radio": {
-                "type": "text",
-                "description": "",
-                "default_value": ""
+                "type": "text"
             },
             "tag": {
-                "type": "text",
-                "description": "",
-                "default_value": ""
+                "type": "text"
             }
         },
         "file": {}
     },
     "_via_data_format_version": "2.0.10",
     "_via_image_id_list": [
-        "page_1_1_AD.png925208"
+        "SPQ_2.png"
     ]
 }
